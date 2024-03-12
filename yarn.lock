@@ -3018,10 +3018,10 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react@*", "@types/react@18.0.35", "@types/react@>=16":
-  version "18.0.35"
-  resolved "https://registry.npmjs.org/@types/react/-/react-18.0.35.tgz"
-  integrity sha512-6Laome31HpetaIUGFWl1VQ3mdSImwxtFZ39rh059a1MNnKGqBpC88J6NJ8n/Is3Qx7CefDGLgf/KhN/sYCf7ag==
+"@types/react@*", "@types/react@18.2.65", "@types/react@>=16":
+  version "18.2.65"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.2.65.tgz#54eb311fa9aba173c9e163d42ec188d5a42878b8"
+  integrity sha512-98TsY0aW4jqx/3RqsUXwMDZSWR1Z4CUlJNue8ueS2/wcxZOsz4xmW1X8ieaWVRHcmmQM3R8xVA4XWB3dJnWwDQ==
   dependencies:
     "@types/prop-types" "*"
     "@types/scheduler" "*"
